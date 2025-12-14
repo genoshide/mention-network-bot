@@ -1,0 +1,90 @@
+================================================================
+      GENOSHIDE MENTION BOT  |  PREMIUM EDITION v1.0
+================================================================
+
+[ OVERVIEW ]
+A high-performance, enterprise-grade automation tool designed 
+exclusively for Mention Network. Built with advanced AI integration,
+security compilation, and remote management capabilities to ensure 
+maximum efficiency and account safety.
+
+----------------------------------------------------------------
+ 1. 🧠 ARTIFICIAL INTELLIGENCE ENGINE
+----------------------------------------------------------------
+ > Dual-Core AI Support
+   Seamlessly integrates Google Gemini and Groq (Llama 3) models.
+   The bot automatically rotates keys to handle API limits.
+
+ > Context-Aware Conversations
+   Unlike basic bots, Genoshide understands context. It generates 
+   follow-up questions based on previous answers, simulating real 
+   human curiosity.
+
+ > Dynamic Persona System (Smart Top-Up)
+   - Automatically generates 100+ unique identities.
+   - Each account gets a specific name, personality trait (Formal, 
+     Slang, Skeptical), and favorite topics.
+   - Persistent memory: Accounts keep their personality across restarts.
+
+ > Human Simulation
+   Randomized typing delays and natural language patterns to avoid 
+   bot detection systems.
+
+----------------------------------------------------------------
+ 2. 🛡️ SECURITY & PROTECTION
+----------------------------------------------------------------
+ > Nuitka Compiled Core (.pyd)
+   The source logic is compiled into machine code (Binary). 
+   It is anti-tamper, anti-decompile, and optimized for speed.
+
+ > HWID License Lock
+   Your license is bound to your specific hardware ID. This prevents 
+   unauthorized sharing or leaking of the software.
+
+ > Strict Proxy Enforcement
+   The bot will refuse to run if "Use Proxy" is enabled but the 
+   proxy list is empty. Prevents accidental IP leaks.
+
+----------------------------------------------------------------
+ 3. ⚡ AUTOMATION & EFFICIENCY
+----------------------------------------------------------------
+ > Async Multi-Threading
+   Run hundreds of accounts simultaneously with minimal RAM/CPU usage.
+
+ > Smart Auto-Sleep & Resume
+   - Hits an API Limit? The bot automatically sleeps for 50 minutes.
+   - Telegram Control remains ACTIVE during sleep.
+   - Auto-resumes operations immediately after the cooldown.
+
+ > Auto-Quest Solver
+   Automatically detects and completes daily "Visit" and "Follow" 
+   quests to maximize point farming.
+
+----------------------------------------------------------------
+ 4. 📱 TELEGRAM CONTROL CENTER
+----------------------------------------------------------------
+ Manage your farm remotely from your smartphone:
+ 
+ [✔] Live Monitoring : Check real-time points and worker status.
+ [✔] Server View     : Request a screenshot of your VPS/PC.
+ [✔] Hot-Swapping    : Add Tokens or API Keys via chat without restarting.
+ [✔] Log Streaming   : Read terminal error logs remotely.
+ [✔] Power Control   : Stop or Restart the bot instantly.
+
+----------------------------------------------------------------
+ 5. 💻 SYSTEM REQUIREMENTS (CRITICAL)
+----------------------------------------------------------------
+ Because this software uses advanced compilation technology, 
+ strict environment requirements apply:
+
+ [OS]     : Windows 10 or Windows 11 (64-bit)
+ [PYTHON] : Version 3.11.x ONLY (Do not use 3.10 or 3.12)
+ [RAM]    : Minimum 4GB Recommended
+
+================================================================
+ [ CONTACT & SUPPORT ]
+ For license activation : https://form.jotform.com/253471232172046
+ Github : https://github.com/genoshide
+
+ (C) 2025 Genoshide Development. All rights reserved.
+================================================================

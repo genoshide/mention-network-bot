@@ -1,0 +1,10 @@
+curl_cffi
+rich
+google-generativeai
+groq
+pytz
+fake-useragent
+python-dotenv
+python-telegram-bot
+pyautogui
+pillow
